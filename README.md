@@ -46,22 +46,6 @@ Pyx aims to become the **world's fastest Python-syntax-compatible compiled langu
 
 ---
 
-## 📂 Project Structure
-
-pyx/
-├── compiler/
-│ ├── lexer.py
-│ ├── parser.py
-│ └── ir_generator.py
-├── runtime/
-│ ├── jit_engine.py
-│ └── gpu_interface.py
-├── tests/
-│ └── benchmarks.py
-└── main.py
-
----
-
 ## 🧠 Why Pyx?
 
 - ❤️ Python simplicity
