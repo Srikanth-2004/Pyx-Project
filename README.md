@@ -61,7 +61,7 @@ Pyx aims to become the **world's fastest Python-syntax-compatible compiled langu
 
 **Author:** *Srikanth Karthikeyan*  
 **License:** MIT  
-**Twitter / GitHub / LinkedIn:** [https://github.com/Srikanth-2004 / https://www.linkedin.com/in/srikanth-karthikeyan-2k4/]
+**Twitter / GitHub / LinkedIn:** [https://x.com/Noobie_Sk / https://github.com/Srikanth-2004 / https://www.linkedin.com/in/srikanth-karthikeyan-2k4/]
 
 ---
 
